@@ -24,7 +24,7 @@
   color: #ffffff !important;
 }
 
-/* Footer color to match home title bar */
+footer.bg-dark,
 footer, .site-footer, #footer {
   background-color: #254222 !important;
   color: #ffffff !important;
@@ -32,9 +32,4 @@ footer, .site-footer, #footer {
 
 footer a, .site-footer a, #footer a {
   color: #ffffff !important;
-}
-
-#footer .nav-link.active, #footer .nav-link {
-  color: #ffffff !important;
-  border-color: transparent !important;
 }
