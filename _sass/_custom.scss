@@ -6,9 +6,20 @@
 }
 .navbar .navbar-brand,
 .navbar .nav-link {
-  color: #1b1b1b !important; /* dark text for contrast */
+  color: #1b1b1b !important; 
 }
 .navbar .nav-link:hover,
 .navbar .nav-link:focus {
   color: #000 !important;
+}
+
+/* Home banner title background override */
+#home-title-box > .p-2 {
+  background-color: #254222 !important;
+  background-image: none !important;
+  background-blend-mode: normal !important;
+}
+#home-title-box .display-4,
+#home-title-box p {
+  color: #ffffff !important;
 }
