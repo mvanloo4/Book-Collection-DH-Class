@@ -1,1 +1,14 @@
-/* navbar custom color / .navbar { background-color: #cae4c5 !important; } .navbar .navbar-brand, .navbar .nav-link { color: #1b1b1b !important; / dark text for contrast */ } .navbar .nav-link:hover, .navbar .nav-link:focus { color: #000 !important; }
+/* _sass/_custom.scss — custom overrides (replace existing file contents) */
+
+/* Navbar background color and link color overrides */
+.navbar {
+  background-color: #cae4c5 !important;
+}
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: #1b1b1b !important; /* dark text for contrast */
+}
+.navbar .nav-link:hover,
+.navbar .nav-link:focus {
+  color: #000 !important;
+}
