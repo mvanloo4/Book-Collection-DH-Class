@@ -23,3 +23,18 @@
 #home-title-box p {
   color: #ffffff !important;
 }
+
+/* Footer color to match home title bar */
+footer, .site-footer, #footer {
+  background-color: #254222 !important;
+  color: #ffffff !important;
+}
+
+footer a, .site-footer a, #footer a {
+  color: #ffffff !important;
+}
+
+#footer .nav-link.active, #footer .nav-link {
+  color: #ffffff !important;
+  border-color: transparent !important;
+}
