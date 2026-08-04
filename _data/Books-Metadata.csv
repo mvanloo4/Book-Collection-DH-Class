@@ -1,7 +1,7 @@
 objectid,title,format,filename,author,isbn,publisher,publication_date,genre
-item1,A Tree Grows in Brooklyn,image/jpeg,/assets/img/ATreeGrowsinBrooklyn.jpeg,Betty Smith,9780060736262,HarperCollins,2005,Historical Fiction; Young Adult; Coming of Age
-item2,Lullabies for Little Criminals,image/jpeg,/assets/img/LullabiesForLittleCriminals.jpg,Heather O'Neill,9780060875077,HarperCollins,2006,Coming of Age; Young Adult; Literary Fiction
-item3,North Woods,image/jpeg,/assets/img/NorthWoods.jpg,Daniel Mason,9780593597040,Random House Publishing Group,2024,Historical Fiction; Literary Fiction; Magical Realism
-item4,The Librarians of Lisbon,image/jpeg,/assets/img/LibrariansOfLisbon.jpg,Suzanne Nelson,9781638931652,Zando,2025,Historical Fiction; Romance; Mystery
-item5,The Secret Life of Bees,image/jpeg,/assets/img/TheSecretLifeofBees.jpg,Sue Monk Kidd,9780142001745,Penguin Publishing Group,2001,Historical Fiction; Young Adult; Coming of Age
-item6,Water for Elephants,image/jpeg,/assets/img/WaterForElephants.jpg,Sara Gruen,9781443444897,HarperCollins,2015,Historical Fiction; Romance
+item1,A Tree Grows in Brooklyn,image/jpeg,/Book-Collection-DH-Class/assets/img/ATreeGrowsinBrooklyn.jpeg,Betty Smith,9780060736262,HarperCollins,2005,Historical Fiction; Young Adult; Coming of Age
+item2,Lullabies for Little Criminals,image/jpeg,/Book-Collection-DH-Class/assets/img/LullabiesForLittleCriminals.jpg,Heather O'Neill,9780060875077,HarperCollins,2006,Coming of Age; Young Adult; Literary Fiction
+item3,North Woods,image/jpeg,/Book-Collection-DH-Class/assets/img/NorthWoods.jpg,Daniel Mason,9780593597040,Random House Publishing Group,2024,Historical Fiction; Literary Fiction; Magical Realism
+item4,The Librarians of Lisbon,image/jpeg,/Book-Collection-DH-Class/assets/img/LibrariansOfLisbon.jpg,Suzanne Nelson,9781638931652,Zando,2025,Historical Fiction; Romance; Mystery
+item5,The Secret Life of Bees,image/jpeg,/Book-Collection-DH-Class/assets/img/TheSecretLifeofBees.jpg,Sue Monk Kidd,9780142001745,Penguin Publishing Group,2001,Historical Fiction; Young Adult; Coming of Age
+item6,Water for Elephants,image/jpeg,/Book-Collection-DH-Class/assets/img/WaterForElephants.jpg,Sara Gruen,9781443444897,HarperCollins,2015,Historical Fiction; Romance
